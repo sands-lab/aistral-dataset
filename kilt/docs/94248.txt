@@ -1,0 +1,102 @@
+Populus
+Populus is a genus of 25–35 species of deciduous flowering plants in the family Salicaceae, native to most of the Northern Hemisphere. English names variously applied to different species include poplar , aspen, and cottonwood.
+In the September 2006 issue of "Science Magazine", the Joint Genome Institute announced that the western balsam poplar ("P. trichocarpa") was the first tree whose full DNA code had been determined by DNA sequencing.
+Section::::Description.
+The genus has a large genetic diversity, and can grow from tall, with trunks up to in diameter.
+The bark on young trees is smooth, white to greenish or dark grey, and often has conspicuous lenticels; on old trees, it remains smooth in some species, but becomes rough and deeply fissured in others. The shoots are stout, with (unlike in the related willows) the terminal bud present. The leaves are spirally arranged, and vary in shape from triangular to circular or (rarely) lobed, and with a long petiole; in species in the sections "Populus" and "Aigeiros", the petioles are laterally flattened, so that breezes easily cause the leaves to wobble back and forth, giving the whole tree a "twinkling" appearance in a breeze. Leaf size is very variable even on a single tree, typically with small leaves on side shoots, and very large leaves on strong-growing lead shoots. The leaves often turn bright gold to yellow before they fall during autumn.
+The flowers are mostly dioecious (rarely monoecious) and appear in early spring before the leaves. They are borne in long, drooping, sessile or pedunculate catkins produced from buds formed in the axils of the leaves of the previous year. The flowers are each seated in a cup-shaped disk which is borne on the base of a scale which is itself attached to the rachis of the catkin. The scales are obovate, lobed, and fringed, membranous, hairy or smooth, and usually caducous. The male flowers are without calyx or corolla, and comprise a group of four to 60 stamens inserted on a disk; filaments are short and pale yellow; anthers are oblong, purple or red, introrse, and two-celled; the cells open longitudinally. The female flower also has no calyx or corolla, and comprises a single-celled ovary seated in a cup-shaped disk. The style is short, with two to four stigmata, variously lobed, and numerous ovules. Pollination is by wind, with the female catkins lengthening considerably between pollination and maturity. The fruit is a two- to four-valved dehiscent capsule, green to reddish-brown, mature in midsummer, containing numerous minute light brown seeds surrounded by tufts of long, soft, white hairs which aid wind dispersal.
+Section::::Ecology.
+Poplars of the cottonwood section are often wetlands or riparian trees. The aspens are among the most important boreal broadleaf trees.
+Poplars and aspens are important food plants for the larvae of a large number of Lepidoptera species. "Pleurotus populinus", the aspen oyster mushroom, is found exclusively on dead wood of "Populus" trees in North America.
+Several species of "Populus" in the United Kingdom and other parts of Europe have experienced heavy dieback; this is thought in part to be due to "Sesia apiformis" which bores into the trunk of the tree during its larval stage.
+Section::::Classification.
+The genus "Populus" has traditionally been divided into six sections on the basis of leaf and flower characters; this classification is followed below. Recent genetic studies have largely supported this, confirming some previously suspected reticulate evolution due to past hybridisation and introgression events between the groups. Some species (noted below) had differing relationships indicated by their nuclear DNA (paternally inherited) and chloroplast DNA sequences (maternally inherited), a clear indication of likely hybrid origin. Hybridisation continues to be common in the genus, with several hybrids between species in different sections known.
+Section::::Classification.:Selected species.
+BULLET::::- "Populus" section "Populus" – aspens and white poplar (circumpolar subarctic and cool temperate, and mountains farther south, white poplar warm temperate)
+BULLET::::- "Populus adenopoda" – Chinese aspen (eastern Asia)
+BULLET::::- "Populus alba" – white poplar (southern Europe to central Asia)
+BULLET::::- "Populus" × "canescens" ("P. alba × P. tremula") – grey poplar
+BULLET::::- "Populus spp. X" (see "spp.") – Pacific albus (North America)
+BULLET::::- "Populus davidiana" – Korean aspen (eastern Asia)
+BULLET::::- "Populus grandidentata" – bigtooth aspen (eastern North America)
+BULLET::::- "Populus sieboldii" – Japanese aspen (eastern Asia)
+BULLET::::- "Populus tremula" – aspen, common aspen, Eurasian aspen, European aspen, quaking aspen (Europe, northern Asia)
+BULLET::::- "Populus tremuloides" – quaking aspen or trembling aspen (North America)
+BULLET::::- "Populus" section "Aigeiros" – black poplars, some of the cottonwoods (North America, Europe, western Asia; temperate)
+BULLET::::- "Populus deltoides" – eastern cottonwood (eastern North America)
+BULLET::::- "Populus fremontii" – Fremont cottonwood (western North America)
+BULLET::::- "Populus nigra" – black poplar (Europe), placed here by nuclear DNA; cpDNA places it in sect. "Populus" (including "Populus afghanica")
+BULLET::::- "Populus" × "canadensis" ("P. deltoides" × "P. nigra") – hybrid black poplar
+BULLET::::- "Populus" × "inopina" ("P. nigra" × "P. fremontii") – hybrid black poplar
+BULLET::::- "Populus" section "Tacamahaca" – balsam poplars (North America, Asia; cool temperate)
+BULLET::::- "Populus angustifolia" – willow-leaved poplar or narrowleaf cottonwood (central North America)
+BULLET::::- "Populus balsamifera" – Balsam poplar (northern North America) (= "P. candicans", "P. tacamahaca")
+BULLET::::- "Populus cathayana" – (northeast Asia)
+BULLET::::- "Populus koreana" – Korean poplar (northeast Asia)
+BULLET::::- "Populus laurifolia" – laurel-leaf poplar (central Asia)
+BULLET::::- "Populus maximowiczii" – Maximowicz' poplar, Japanese poplar (northeast Asia)
+BULLET::::- "Populus simonii" – Simon's poplar (northeast Asia)
+BULLET::::- "Populus suaveolens" – Mongolian poplar (northeast Asia)
+BULLET::::- "Populus szechuanica" – Sichuan poplar (northeast Asia), placed here by nuclear DNA; cpDNA places it in sect. "Aigeiros"
+BULLET::::- "Populus trichocarpa" – western balsam poplar or black cottonwood (western North America)
+BULLET::::- "Populus tristis" (northeast Asia), placed here by nuclear DNA; cpDNA places it in sect. "Aigeiros"
+BULLET::::- "Populus ussuriensis" – Ussuri poplar (northeast Asia)
+BULLET::::- "Populus yunnanensis" – Yunnan poplar (east Asia)
+BULLET::::- "Populus" section "Leucoides" – necklace poplars or bigleaf poplars (eastern North America, eastern Asia; warm temperate)
+BULLET::::- "Populus heterophylla" – downy poplar (southeastern North America)
+BULLET::::- "Populus lasiocarpa" – Chinese necklace poplar (eastern Asia)
+BULLET::::- "Populus wilsonii" – Wilson's poplar (eastern Asia)
+BULLET::::- "Populus" section "Turanga" – subtropical poplars (southwest Asia, east Africa; subtropical to tropical)
+BULLET::::- "Populus euphratica" – Euphrates poplar (North Africa, southwest and central Asia)
+BULLET::::- "Populus ilicifolia" – Tana River poplar (East Africa)
+BULLET::::- "Populus" section "Abaso" – Mexican poplars (Mexico; subtropical to tropical)
+BULLET::::- "Populus guzmanantlensis" (Mexico)
+BULLET::::- "Populus mexicana" – Mexico poplar (Mexico)
+Section::::Cultivation.
+Many poplars are grown as ornamental trees, with numerous cultivars used. They have the advantage of growing to a very large size at a rapid pace. Almost all poplars take root readily from cuttings or where broken branches lie on the ground (they also often have remarkable suckering abilities, and can form huge colonies from a single original tree, such as the famous "Pando" forest made of thousands of "Populus tremuloides" clones).
+Trees with fastigiate (erect, columnar) branching are particularly popular, and are widely grown across Europe and southwest Asia. However, like willows, poplars have very vigorous and invasive root systems stretching up to 40 m from the trees; planting close to houses or ceramic water pipes may result in damaged foundations and cracked walls and pipes due to their search for moisture.
+A simple, reproducible, high-frequency micropropagation protocol in eastern cottonwood "Populus deltoides" has been reported by Yadav et al. 2009.
+Section::::Cultivation.:India.
+In India, the poplar is grown commercially by farmers, mainly in the Punjab region. Common poplar varieties are:
+BULLET::::- G48 (grown in the plains of Punjab, Haryana, UP)
+BULLET::::- w22 (grown in mountainous regions, e.g., Himachal Pradesh, Pathankot, Jammu)
+The trees are grown from "kalam" or cuttings, harvested annually in January and February, and commercially available up to 15November.
+Most commonly used to make plywood, Yamuna Nagar in Haryana state has a large plywood industry reliant upon poplar. It is graded according to sizes known as "over" (over ), "under" (), and "sokta" (less than ).
+Section::::Uses.
+Although the wood from "Populus" is known as poplar wood, a common high-quality hardwood "poplar" with a greenish colour is actually from an unrelated genus "Liriodendron". "Populus" wood is a lighter, more porous material.
+Its flexibility and close grain make it suitable for a number of applications, similar to those for willow. The Greeks and Etruscans made shields of poplar, and Pliny also recommended poplar for this purpose. Poplar continued to be used for shield construction through the Middle Ages and was renowned for a durability similar to that of oak, but at a substantial reduction in weight.
+Section::::Uses.:Manufacturing.
+BULLET::::- In many areas, fast-growing hybrid poplars are grown on plantations for pulpwood
+BULLET::::- Poplar is widely used for the manufacture of paper.
+BULLET::::- It is also sold as inexpensive hardwood timber, used for pallets and cheap plywood; more specialised uses include matchboxes and the boxes in which Camembert cheese is sold.
+BULLET::::- Poplar wood is also widely used in the snowboard industry for the snowboard core, because it has exceptional flexibility, and is sometimes used in the bodies of electric guitars and drums.
+BULLET::::- Poplar wood, particularly when seasoned, makes a good hearth for a bow drill.
+BULLET::::- Due to its high tannic acid content, the bark has been used in Europe for tanning leather.
+BULLET::::- Poplar wood can be used to produce chopsticks or wooden shoes.
+BULLET::::- Baking moulds from peeled poplar may be used in the freezer, oven, or microwave oven.
+Apart from all these basic use of Poplar, in India Poplar from Kashmir region is used for Pencil Slat manufacturing. Those Pencil Slats are little bit harder than Vatta, Bass or Cedar but after Proper Softening Process it can be used for Pencil making. 3 Major Pencil Manufacturers (HPL/DOMS/Camlin) of India use Poplar wood for making Pencils.
+Section::::Uses.:Energy.
+Interest exists in using poplar as an energy crop for biomass, in energy forestry systems, particularly in light of its high energy-in to energy-out ratio, large carbon mitigation potential, and fast growth.
+In the United Kingdom, poplar (as with fellow energy crop willow) is typically grown in a short rotation coppice system for two to five years (with single or multiple stems), then harvested and burned - the yield of some varieties can be as high as 12 oven-dry tonnes per hectare every year.
+In warmer regions like Italy this crop can procuce up to 13.8, 16.4 oven-dry tonnes of biomass per hectare every year for biannual and triennial cutting cycles also showing a positive energy balance and a high energy efficiency.
+Section::::Uses.:Fuel.
+Biofuel is another option for using poplar as bioenergy supply. In the United States, scientists studied converting short rotation coppice poplar into sugars for biofuel (e.g. ethanol) production.
+Considering the relative cheap price, the process of making biofuel from SRC can be economic feasible, although the conversion yield from short rotation coppice (as juvenile crops) were lower than regular mature wood. Besides biochemical conversion, thermochemical conversion (e.g. fast pyrolysis) was also studied for making biofuel from short rotation coppice poplar and was found to have higher energy recovery than that from bioconversion.
+Section::::Uses.:Art and literature.
+Poplar was the most common wood used in Italy for panel paintings; the "Mona Lisa" and most famous early renaissance Italian paintings are on poplar. The wood is generally white, often with a slightly yellowish colour.
+Some stringed instruments are made with one-piece poplar backs; violas made in this fashion are said to have a particularly resonant tone. Similarly, though typically it is considered to have a less attractive grain than the traditional sitka spruce, poplar is beginning to be targeted by some harp luthiers as a sustainable and even superior alternative for their sound boards: in these cases another hardwood veneer is sometimes applied to the resonant poplar base both for cosmetic reasons, and supposedly to fine-tune the acoustic properties.
+Two notable poems in English lament the cutting down of poplars, William Cowper's "The Poplar Field" and Gerard Manley Hopkins' "Binsey Poplars felled 1879".
+In Billie Holiday's Strange Fruit, she sings "Black bodies swinging in the southern breeze/Strange fruit hanging from the poplar trees…".
+Poplars in Ukrainian folklore symbolise beauty or loneliness of a woman in love.
+The Odd Poplars Alley, in Iași, Romania, is one of the spots where Mihai Eminescu sought inspiration in his works (the poem "Down Where the Lonely Poplars Grow"). In 1973, the 15 white poplars still left (with age ranges between 233 and 371 years) were declared natural monuments.
+Section::::Uses.:Susceptible to termites.
+In Pakistan, poplar is grown on commercial level by farmers in Punjab, Sindh, and Khyber Pakhtunkhwa Provinces. However, all varieties are seriously susceptible to termite attack, causing significant losses to poplar every year. Logs of poplar are therefore also used as bait in termite traps (termaps) for biocontrol of termites in crops.
+Section::::Uses.:Land management.
+Lombardy poplars are frequently used as a windbreak around agricultural fields to protect against wind erosion.
+Section::::Uses.:Agriculture.
+Logs from the poplar provide a growing medium for shiitake mushrooms.
+Section::::Uses.:Phytoremediation.
+Poplar represents a suitable candidate for phytoremediation. This plant has been successfully used to target many types of pollutants including trace element (TEs) in soil and sewage sludge, Polychlorinated Biphenyl (PCBs), Trichloroethylene (TCE), Polycyclic Aromatic Hydrocarbon (PAHs).
+Section::::See also.
+BULLET::::- Poplar Walk, Christ Church Meadow, Oxford, England
+BULLET::::- Poplar Tree Incident

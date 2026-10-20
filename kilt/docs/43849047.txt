@@ -1,0 +1,9 @@
+Askold Khovanskii
+Askold Georgievich Khovanskii (; born 3 June 1947, Moscow) is a Russian and Canadian mathematician currently a professor of mathematics at the University of Toronto, Canada. His areas of research are algebraic geometry, commutative algebra, singularity theory, differential geometry and differential equations. His research is in the development of the theory of toric varieties and Newton polyhedra in algebraic geometry. He is also the inventor of the theory of fewnomials.
+He obtained his Ph.D. from Steklov Mathematical Institute in Moscow under the supervision of Vladimir Arnold. In his Ph.D. thesis, he developed a topological version of Galois theory. He studies the theory of Newton–Okounkov bodies (or Okounkov bodies for short).
+Among his graduate students are Olga Gel'fond, Feodor Borodich, H. Petrov-Tan'kin, Kiumars Kaveh, Farzali Izadi, Ivan Soprunov, Jenya Soprunova, Vladlen Timorin, Valentina Kirichenko, Sergey Chulkov, V. Kisunko, Mikhail Mazin O. Ivrii, K. Matveev, Yuri Burda, and J. Yang.
+In 2014, he received the Jeffery–Williams Prize of the Canadian Mathematical Society for outstanding contributions to mathematical research in Canada.
+Section::::External links.
+BULLET::::- Homepage of Askold Khovanskii at the University of Toronto
+BULLET::::- Moscow Mathematical Journal volume in honor of Askold Khovanskii (Mosc. Math. J., 7:2 (2007), 169–171)
+BULLET::::- Askoldfest
